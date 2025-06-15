@@ -1,0 +1,11 @@
+type,url,payload,evidence
+Error-Based SQL Injection,http://testphp.vulnweb.com/artists.php?artist=1,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/artists.php?artist=3,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/artists.php?artist=2,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/product.php?pic=2,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/listproducts.php?cat=2,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/listproducts.php?cat=3,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/listproducts.php?cat=4,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/listproducts.php?cat=1,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/product.php?pic=3,Payload used (error-based),SQL Error Detected
+Error-Based SQL Injection,http://testphp.vulnweb.com/product.php?pic=1,Payload used (error-based),SQL Error Detected
